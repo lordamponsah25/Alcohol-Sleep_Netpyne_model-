@@ -1,9 +1,6 @@
 # Alcohol-Sleep_Netpyne_model-
 This repository contains simulation code and visualizations from a computational neuroscience project investigating the impact of alcohol consumption and sleep deprivation on neuronal activity and memory-related network dynamics.
 The project integrates:
-
-🧪 Empirical data from cognitive assessments of university students
-
 🧠 Single-neuron modeling using CompCogNeuro simulations
 
 🧬 Network-level and CA3 hippocampal simulations using NetPyNE
