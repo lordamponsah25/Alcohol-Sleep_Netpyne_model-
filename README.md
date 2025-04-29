@@ -34,3 +34,5 @@ Amponsah, L.B. (2025). "Exploring the Neural Basis of Alcohol and Sleep Effects 
 ⚠️ Note:
 Before running the attached Jupyter notebooks, please ensure you have installed NEURON, NetPyNE, and all required Python dependencies.
 Follow the official NetPyNE installation guide https://www.netpyne.org/resources/tutorials for setup instructions.
+
+🧰 You can access a GUI version of Netpyne here https://v2.opensourcebrain.org/workspaces/open/1205/netpyne
